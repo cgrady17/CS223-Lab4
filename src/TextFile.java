@@ -68,7 +68,7 @@ public class TextFile<String> extends File<String>
     //********************************************************
     // removeFile(TextFile tf)
     //********************************************************
-    public void removeFile(TextFile<String> tf)
+    /*public void removeFile(TextFile<String> tf)
     {
         if (tf.isFile())
         {
@@ -86,7 +86,7 @@ public class TextFile<String> extends File<String>
                 System.out.println("File to delete does not exist.");
             }
         }
-    } // End removeFile(TextFile)
+    } // End removeFile(TextFile)*/
 
     //********************************************************
     // getPath()
